@@ -7,7 +7,7 @@
   "dependencies": {
     "@babel/runtime": "^7.7.6",
     "apollo-live-server": "^0.2.2",
-    "apollo-server-express": "^2.10.1",
+    "apollo-server-express": "^2.14.2",
     "graphql": "^14.6.0",
     "graphql-load": "^0.1.1",
     "graphql-tools": "^4.0.6",
